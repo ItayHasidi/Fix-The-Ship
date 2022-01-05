@@ -29,5 +29,3 @@ EnemyAiTutorial.cs was taken from: https://www.youtube.com/watch?v=UjkSFoLxesw&a
 
 ### EndTrigger.cs :
 Triggers end message.
-
-### The rest of the scripts were not used in the game.
